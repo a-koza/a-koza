@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Thanks for visiting my profile, you can find more about me here:  
+https://www.linkedin.com/in/andrzej-koza/
+
+- 📫 Or you can reach me by writing email to: koza.andrzejek@gmail.com
+
+
 <!--
 **a-koza/a-koza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
